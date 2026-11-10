@@ -1,0 +1,4 @@
+interface:
+  display_name: "Entendedor"
+  short_description: "Recupera contexto y ejecuta tareas con criterio"
+  default_prompt: "Usa $entendedor para entender el contexto y completar la tarea."
